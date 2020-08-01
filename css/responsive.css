@@ -1,0 +1,26 @@
+@media only Screen and (max-width: 767px) {
+    #main-news-sec .main-news-right {
+        display: none;
+    }
+
+    #main-news-sec .main-news-left {
+        width: 100%;
+    }
+
+    #Education .edu-box {
+        width: 95%;
+    }
+}
+
+
+@media only Screen and (max-width: 575px) {
+
+    #head-ber .head-time {
+        font-size: 10px;
+    }
+
+
+    #foot p {
+        font-size: 15px;
+    }
+}
